@@ -99,7 +99,6 @@ def test(args):
     else:
         raise NotImplementedError()
 ```
-<<<<<<< HEAD
 
 # Environment detail
 | Environment        	| version 	|
@@ -111,5 +110,3 @@ def test(args):
 | pytorch     	| 1.6         	|
 | pytorchvision | 0.6.1         |
   
-=======
->>>>>>> da7d827845c86ef1568d5f7b77f1b16f0c0a0502
