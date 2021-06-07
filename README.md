@@ -19,7 +19,7 @@ bash ./install_scripts/set_env.sh && conda activate envtest_arclu
 bash ./install_scripts/get_light_imagenet.sh
 ```
 ## 4. Quick test
-### 4-1. Attack ($\ell_\infty=0.3$, on MNIST)
+### 4-1. Attack (![](http://www.sciweavers.org/tex2img.php?eq=%5Cell_%5Cinfty%3D0.3&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), on MNIST)
 ```
 bash ./install_scripts/quick_test.sh
 ```
