@@ -99,3 +99,14 @@ def test(args):
     else:
         raise NotImplementedError()
 ```
+
+# Environment detail
+| Environment        	| version 	|
+|------------	|------------	|
+| GPU        	| GTX 1080ti 	|
+| GPU driver 	| 418.152.00 	|
+| CUDA       	| 10.1       	|
+| python     	| 3.7.7      	|
+| pytorch     	| 1.6         	|
+| pytorchvision | 0.6.1         |
+  
