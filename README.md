@@ -18,7 +18,7 @@ bash ./install_scripts/set_env.sh && conda activate envtest_arclu
 ```
 bash ./install_scripts/get_light_imagenet.sh
 ```
-## 4. Quick test
+## 4. Quick test with small number of data
 ### 4-1. Attack (![](http://www.sciweavers.org/tex2img.php?eq=%5Cell_%5Cinfty%3D0.3&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), on MNIST)
 ```
 bash ./install_scripts/quick_test.sh
@@ -106,6 +106,7 @@ def test(args):
 | GPU        	| GTX 1080ti 	|
 | GPU driver 	| 418.152.00 	|
 | CUDA       	| 10.1       	|
+| OS        	| Ubuntu 20.04 	|
 | python     	| 3.7.7      	|
 | pytorch     	| 1.6         	|
 | pytorchvision | 0.6.1         |
